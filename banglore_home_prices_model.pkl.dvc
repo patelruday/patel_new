@@ -1,0 +1,5 @@
+outs:
+- md5: ca010133bfc82eab82eb4624a01ad241
+  size: 8123
+  hash: md5
+  path: banglore_home_prices_model.pkl
